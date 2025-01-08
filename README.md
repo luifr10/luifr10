@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Louis-Fredice !!!</h1>
 
-<p align="center">🧑🏽‍💼 I’m currently working at Orange as Software architect and software craftsmanship coach</p>
+<p align="center">🧑🏽‍💼 I’m currently working at Make it Soft as Software architect and software craftsmanship coach</p>
 <p align="center">A true software development enthusiast, I currently work as a Software Architect on Backend, Frontend and DevOps development projects.</p>
 <p align="center">Software Quality is a subject that's particularly close to my heart, which is why I'm part of the Software Craftsmanship movement on a daily basis.</p>
 <p align="center">I enjoy discovering new technologies, concepts and people, sharing my experience where relevant (I'm a regular Craft coach) and contributing to open source projects that I find interesting.</p>
